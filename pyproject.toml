@@ -5,3 +5,4 @@ description = "CLI for generating FastAPI projects with selectable templates :sp
 requires-python = ">=3.10"
 # drop an unused branch
 # avoid re-reading the config on every call
+# match the style used in the rest of the module
